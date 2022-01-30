@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Favorite Things</title>
+  </head>
+  <body>
+    <h1>My Favorite Things</h1>
+    <h2>"Favorite Foods."</h2>
+      <ul>
+          <li>Chapati</li>
+          <li>Bhajia</li>
+          <li>Burrito</li>
+        </ul>
+      <h2>"Favorite Animals."</h2>
+      <p>Some animals I like!</p>
+      <ol>
+        <li>Lion</li>
+        <li>Tiger</li>
+        <li>Elephant</li>
+    </ol>
+    <h3>"cute Animals."</h3>
+    <p>"It's raining cats and dogs!"</p>
+    <img alt="Dog Picture"
+         src="http://place-puppy.com/200x200">
+    <img alt="Cat Picture"
+         src="http://place-kitten.com/200x200">
+         <p>
+             blessings <a
+             href="http://place-kitten.com">Place Kitten</a> and <a href="http://place-puppy.com">Place Puppy</a> see pics!
+         </p>
+  </body>
+</html>
